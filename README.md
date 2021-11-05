@@ -1,18 +1,13 @@
 - 👋 Hi, I’m @QianchengSun
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in Renewable Energy, Machine Learning, Computer version, and Energy Efficiency Buildings
 
-Machine Learning, Energy Efficiency Buildings
-
-- 🌱 I’m currently learning ...
-
-At University of Dayton
-
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying at University of Dayton 
 
 - 📫 How to reach me ...
 
 Please email me at:
+
 sunq11@udayton.edu
 or
 sunqiancheng0803@gmail.com
