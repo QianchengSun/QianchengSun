@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QianchengSun
 
-- 👀 I’m interested in Renewable Energy, Machine Learning, Computer version, and Energy Efficiency Buildings
+- 👀 I’m interested in Renewable Energy, Machine Learning, Computer version, Energy Efficiency Buildings, and 3D modeling.
 
 - 🌱 I’m currently studying at University of Dayton 
 
